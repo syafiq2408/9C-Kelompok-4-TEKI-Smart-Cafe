@@ -1,0 +1,8 @@
+{
+  "name": "9C Kelompok 4 TEKI Smart Cafe - Future of Coffee \u0026 Dining",
+  "description": "Sistem web terintegrasi TEKI Smart Cafe karya Beryl Arkananta Zaidan, Farsya Azka, Wistara Naufal Rabbani, \u0026 Nadira Inaya Putri. Menampilkan profil kafe, menu lengkap, inovasi smart technology, promosi, report text, portal kasir POS, serta portal pembeli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
